@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-10-17T12:08:31.105139+02:00
+from:
+  id-type: crev
+  id: rZ39eMFyAi4Ish5qQbD947yZ0LvbicnankjidLvjziQ
+package:
+  source: https://crates.io
+  name: log
+  version: 0.4.17
+  revision: 7fb28c36c7a418912612ab37ab49bd4ca1a3a7f5
+  digest: zd6T9coGWhYxCCv5jHnPTtbJGcVK0qfJ2S-RnSiheJY
+----- SIGN CREV PROOF -----
+j0NR2oQCX6OZLRvp4aeF8nhs-2SoWIEWqje0jxVQJ8lEDR1SkNhXqLUUDVBURV5FF31D-sDbm00QLdFbtfmTBg
+----- END CREV PROOF -----
+
