@@ -32,3 +32,24 @@ package:
 L_tezmc1ACMSTArWIjVdFbVWG-v58S_LeTZUQ6y4ODqL0EotPeCDzN875Pfs3un3rxutR-S2U2w5LyrS104oBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-10-17T12:30:37.760407+02:00
+from:
+  id-type: crev
+  id: rZ39eMFyAi4Ish5qQbD947yZ0LvbicnankjidLvjziQ
+package:
+  source: https://crates.io
+  name: num_threads
+  version: 0.1.6
+  revision: edceb1959d2e595f1ec513ed01d5f3a0fa610447
+  digest: goJAubVhdpXk6hjtl4qlet3J0GYMZv_S06_m7OHTfcQ
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+dIgNhmR139VJI87aN8i9jv9i1l5s_-ptU_ooOVXwYuKmROVftNRMODoXsQZ6T_AMOsaygsu9vVr7SfJUR8UIBA
+----- END CREV PROOF -----
+
